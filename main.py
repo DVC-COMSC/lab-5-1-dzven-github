@@ -15,10 +15,10 @@ def printval(v1, v2, total):
     # ******************************
     # Make your Code
     # ******************************
-    print('Input \n')
+    print('Input')
     print(v1)
     print(v2)
-    print('Output\n')
+    print('Output')
     print(total)
 
 def main():
