@@ -2,19 +2,24 @@ def getinput():
     # ******************************
     # Make your Code
     # ******************************
-
+    num = int(input("Please enter numeric value: "))
+    return num
 
 def getsum(v1, v2):
     # ******************************
     # Make your Code
     # ******************************
-
+    return v1 + v2
 
 def printval(v1, v2, total):
     # ******************************
     # Make your Code
     # ******************************
-
+    print('Input \n')
+    print(v1)
+    print(v2)
+    print('Output\n')
+    print(total)
 
 def main():
     userval1 = getinput()
